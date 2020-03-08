@@ -1,37 +1,122 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Radius by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Radius by TEMPLATED</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
 
-You can use the [editor on GitHub](https://github.com/prayank23/blrbitcoinmeetup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<div class="content">
+						<h1>Radius</h1>
+						<h2>A fully responsive masonry-style<br />
+						portfolio template.</h2>
+						<a href="#" class="button big alt"><span>Let's Go</span></a>
+					</div>
+					<a href="#" class="button hidden"><span>Let's Go</span></a>
+				</div>
+			</header>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<!-- Main -->
+			<div id="main">
+				<div class="inner">
+					<div class="columns">
 
-### Markdown
+						<!-- Column 1 (horizontal, vertical, horizontal, vertical) -->
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic01.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic02.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic03.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic04.jpg" alt="" /></a>
+							</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+						<!-- Column 2 (vertical, horizontal, vertical, horizontal) -->
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic06.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic05.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic08.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic07.jpg" alt="" /></a>
+							</div>
 
-```markdown
-Syntax highlighted code block
+						<!-- Column 3 (horizontal, vertical, horizontal, vertical) -->
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic09.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic12.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic11.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic10.jpg" alt="" /></a>
+							</div>
 
-# Header 1
-## Header 2
-### Header 3
+						<!-- Column 4 (vertical, horizontal, vertical, horizontal) -->
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic13.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic14.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic15.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html"><img src="images/pic16.jpg" alt="" /></a>
+							</div>
 
-- Bulleted
-- List
+					</div>
+				</div>
+			</div>
 
-1. Numbered
-2. List
+		<!-- Footer -->
+			<footer id="footer">
+				<a href="#" class="info fa fa-info-circle"><span>About</span></a>
+				<div class="inner">
+					<div class="content">
+						<h3>Vestibulum hendrerit tortor id gravida</h3>
+						<p>In tempor porttitor nisl non elementum. Nulla ipsum ipsum, feugiat vitae vehicula vitae, imperdiet sed risus. Fusce sed dictum neque, id auctor felis. Praesent luctus sagittis viverra. Nulla erat nibh, fermentum quis enim ac, ultrices euismod augue. Proin ligula nibh, pretium at enim eget, tempor feugiat nulla.</p>
+					</div>
+					<div class="copyright">
+						<h3>Follow me</h3>
+						<ul class="icons">
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+						</ul>
+						&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com/">Unsplash</a>.
+					</div>
+				</div>
+			</footer>
 
-**Bold** and _Italic_ and `Code` text
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prayank23/blrbitcoinmeetup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
